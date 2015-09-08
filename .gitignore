@@ -1,0 +1,35 @@
+# Developer's temporary file
+study/
+study.py
+tmp/
+tmp.py
+old/
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.rej
+*.swo
+*.swp
+*.zip
+*.rar
+*.vi
+*~
+*.less-cache
+*.sass-cache
+*.ruby-version
+
+# OS or Editor or IDE folders
+.idea/
+.DS_Store
+._*
+Thumbs.db
+.project
+.settings
+.tmproj
+.docpad.db
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
